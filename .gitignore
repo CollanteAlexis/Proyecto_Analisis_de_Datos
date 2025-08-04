@@ -1,0 +1,10 @@
+# Entorno virtual de Python
+venv
+.venv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.log
